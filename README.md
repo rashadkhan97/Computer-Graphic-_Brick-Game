@@ -16,8 +16,8 @@
 ---
 
 ## 🖥️ Demo
-![DX Ball Game Demo](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
-*(Replace this GIF with your own gameplay recording if you have one)*
+<img width="602" height="627" alt="image" src="https://github.com/user-attachments/assets/ccb4dc30-85ea-471b-8949-e6a69a47e311" />
+
 
 ---
 
