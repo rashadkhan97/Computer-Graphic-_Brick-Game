@@ -23,6 +23,28 @@
 
 ## ⚡ Installation
 1. Make sure you have **Python 3.x** installed on your system.  
-2. Clone this repository:  
-   ```bash
-   git clone <repository-link>
+2. Clone this repository
+
+## 🎮 How to Play
+- Use the **left** and **right arrow keys** to move the paddle.  
+- Bounce the ball to hit and break all the bricks.  
+- Avoid letting the ball fall below the paddle.  
+- Try to clear all bricks to win the game.  
+
+---
+
+## 🛠️ Technologies Used
+- Python 3.x  
+- Pygame (if used) or Tkinter  
+
+---
+
+## 🎯 Project Purpose
+This project helped me apply concepts of computer graphics, game loops, collision detection, and event handling in Python, while building a fun and interactive game.  
+
+---
+
+## 🤝 Contribution
+Contributions are welcome! Feel free to fork this repository, make improvements, and submit a pull request.  
+
+---
